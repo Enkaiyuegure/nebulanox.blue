@@ -269,9 +269,9 @@ enableEmoji = true
     [languages.zh-cn.params.home.profile]
       enable = true
       # Gravatar 邮箱，用于优先在主页显示的头像
-      gravatarEmail = "enkaiyuegure@outlook.com"
+      #gravatarEmail = "enkaiyuegure@outlook.com"
       # 主页显示头像的 URL
-      #avatarURL = "/avatar/myself.webp"
+      avatarURL = "/avatar/myself.webp"
       # DoIt 更改 | 0.2.7 主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题
@@ -368,9 +368,9 @@ enableEmoji = true
     [languages.en.params.home.profile]
       enable = true
       # Gravatar 邮箱，用于优先在主页显示的头像
-      gravatarEmail = "enkaiyuegure@outlook.com"
+      #gravatarEmail = "enkaiyuegure@outlook.com"
       # 主页显示头像的 URL
-      #avatarURL = "/avatar/myself.webp"
+      avatarURL = "/avatar/myself.webp"
       # DoIt 更改 | 0.2.7 主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题
