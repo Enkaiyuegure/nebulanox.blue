@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Nebula Nox Blue</title>
-        <link>http://localhost:1313/</link>
-        <description>Nebula Nox Blue</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 18 Jun 2024 16:18:03 &#43;0800</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>所有文章 - Nebula Nox Blue</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>所有文章 | Nebula Nox Blue</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 18 Jun 2024 16:18:03 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Why Am I Blogging Again</title>
     <link>http://localhost:1313/posts/2024/q2/why-am-i-blogging-again/</link>
     <pubDate>Tue, 18 Jun 2024 16:18:03 &#43;0800</pubDate><author>
