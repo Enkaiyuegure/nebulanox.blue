@@ -2,16 +2,6 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://nebulanox.blue/</loc><lastmod>2024-06-18T16:18:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://nebulanox.blue/en/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://nebulanox.blue/"
-                    /></url><url>
-            <loc>https://nebulanox.blue/posts/</loc><lastmod>2024-06-18T16:18:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://nebulanox.blue/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -29,6 +19,15 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://nebulanox.blue/categories/"
+                    /></url><url>
+            <loc>https://nebulanox.blue/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://nebulanox.blue/en/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://nebulanox.blue/"
                     /></url><url>
             <loc>https://nebulanox.blue/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
