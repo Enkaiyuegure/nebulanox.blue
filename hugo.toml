@@ -123,7 +123,7 @@ enableEmoji = true
   # 社交信息设置
   [params.social]
     GitHub = "Enkaiyuegure"
-    Twitter = "Enkaiyuegure"
+    X = "Enkaiyuegure"
     Reddit = "Enkaiyuegure"
     RSS = true # RSS 格式太简陋，切换到自定义的 ATOM 格式，此参数仅用于控制显示首页的 RSS 按钮
 
