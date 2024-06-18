@@ -2,15 +2,15 @@
     <channel>
         <title>Nebula Nox Blue</title>
         <link>http://localhost:1313/</link>
-        <description>Nebula Nox Blue</description>
+        <description>This Cute World</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 18 Jun 2024 16:18:03 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Why Am I Blogging Again</title>
-    <link>http://localhost:1313/posts/2024/q2/why-am-i-blogging-again/</link>
+    <link>http://localhost:1313/posts/why-am-i-blogging-again/</link>
     <pubDate>Tue, 18 Jun 2024 16:18:03 &#43;0800</pubDate><author>
-        <name>作者</name>
-    </author><guid>http://localhost:1313/posts/2024/q2/why-am-i-blogging-again/</guid>
+        <name>Enkaiyuegure</name>
+    </author><guid>http://localhost:1313/posts/why-am-i-blogging-again/</guid>
     <description><![CDATA[ Test]]></description>
 </item></channel>
 </rss>
