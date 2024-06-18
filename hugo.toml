@@ -25,7 +25,7 @@ enableEmoji = true
   description = "This Cute World"
 
   # 网站关键词
-  keywords = ["Blog", "部落格", "博客", "Enkaiyuegure", "Nkegynles", "Nebulanox"]
+  keywords = ["Blog", "部落格", "博客", "Enkaiyuegure", "Nkegynles", "云海薄暮", "Nebulanox"]
   # 网站默认主题样式 ("light", "dark", "auto")
   defaultTheme = "auto"
   # DoIt 新增 | 0.2.11 开启 PWA 支持
