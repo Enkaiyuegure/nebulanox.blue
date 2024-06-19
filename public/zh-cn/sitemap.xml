@@ -2,48 +2,50 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://nebulanox.blue/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/2024/</loc><lastmod>2024-06-19T14:11:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2024-06-19T14:11:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://nebulanox.blue/en/authors/"
+                        href="http://localhost:1313/en/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://nebulanox.blue/authors/"
+                    href="http://localhost:1313/"
                     /></url><url>
-            <loc>https://nebulanox.blue/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/2024/q2/why-am-i-blogging-again/</loc><lastmod>2024-06-19T14:11:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://nebulanox.blue/en/categories/"
+                        href="http://localhost:1313/en/authors/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://nebulanox.blue/categories/"
+                    href="http://localhost:1313/authors/"
                     /></url><url>
-            <loc>https://nebulanox.blue/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://nebulanox.blue/en/"
+                        href="http://localhost:1313/en/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://nebulanox.blue/"
+                    href="http://localhost:1313/categories/"
                     /></url><url>
-            <loc>https://nebulanox.blue/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://nebulanox.blue/en/series/"
+                        href="http://localhost:1313/en/series/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://nebulanox.blue/series/"
+                    href="http://localhost:1313/series/"
                     /></url><url>
-            <loc>https://nebulanox.blue/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://nebulanox.blue/en/tags/"
+                        href="http://localhost:1313/en/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://nebulanox.blue/tags/"
+                    href="http://localhost:1313/tags/"
                     /></url></urlset>
