@@ -58,4 +58,4 @@ Disallow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://nebulanox.blue/sitemap.xml
+Sitemap: http://localhost:1313/sitemap.xml

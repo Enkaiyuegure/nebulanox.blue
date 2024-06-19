@@ -1,9 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Nebula Nox Blue</title>
-        <link>https://nebulanox.blue/</link>
+        <link>http://localhost:1313/</link>
         <description>This Cute World</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 19 Jun 2024 14:41:57 &#43;0800</lastBuildDate>
-            <atom:link href="https://nebulanox.blue/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>我为何又写起了博客？</title>
+    <link>http://localhost:1313/posts/why-am-i-blogging-again/</link>
+    <pubDate>Wed, 19 Jun 2024 14:41:57 &#43;0800</pubDate><author>
+        <name>Enkaiyuegure</name>
+    </author><guid>http://localhost:1313/posts/why-am-i-blogging-again/</guid>
+    <description><![CDATA[我为何放弃？我曾经在博客园写过一两篇博客，但没坚持下去。原因有很多，大概如下： 学业问题。我当时还是高中生吧，一周回家一天不到。不仅时间不太够]]></description>
+</item></channel>
 </rss>
