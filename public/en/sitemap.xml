@@ -2,48 +2,48 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/en/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://nebulanox.blue/en/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/authors/"
+                        href="https://nebulanox.blue/authors/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/authors/"
+                    href="https://nebulanox.blue/en/authors/"
                     /></url><url>
-            <loc>http://localhost:1313/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://nebulanox.blue/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/categories/"
+                        href="https://nebulanox.blue/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/categories/"
+                    href="https://nebulanox.blue/en/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/en/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://nebulanox.blue/en/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/"
+                        href="https://nebulanox.blue/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/"
+                    href="https://nebulanox.blue/en/"
                     /></url><url>
-            <loc>http://localhost:1313/en/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://nebulanox.blue/en/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/series/"
+                        href="https://nebulanox.blue/series/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/series/"
+                    href="https://nebulanox.blue/en/series/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://nebulanox.blue/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/tags/"
+                        href="https://nebulanox.blue/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/tags/"
+                    href="https://nebulanox.blue/en/tags/"
                     /></url></urlset>
