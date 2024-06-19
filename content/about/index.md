@@ -33,7 +33,12 @@ draft = true
       - 虽然我是大数据专业，但毕竟还是在自动化学院，也是接触了一点硬件的技术
     - 人工智能（Artificial Interlligence，AI）
       - 毕竟这几年发展迅速嘛，多多少少也是会有点兴趣的
-  - 联系方式：
+- 厌恶
+  - 吸烟
+  - 酗酒
+  - 槟榔
+  - 赌博
+- 联系方式：
     - 邮箱：ZW5rYWl5dWVndXJlQG91dGxvb2suY29t
 
 ## 关于此博客
