@@ -3,9 +3,16 @@
         <title>Nebula Nox Blue</title>
         <link>http://localhost:1313/</link>
         <description>This Cute World</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 19 Jun 2024 15:08:25 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 18 Jul 2024 09:57:39 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>我的大一总结</title>
+    <link>http://localhost:1313/posts/my-freshman-year-summary/</link>
+    <pubDate>Thu, 18 Jul 2024 09:57:39 &#43;0800</pubDate><author>
+        <name>Enkaiyuegure</name>
+    </author><guid>http://localhost:1313/posts/my-freshman-year-summary/</guid>
+    <description><![CDATA[前言不觉间已经进入了第三季度了，大一也就这么悄悄离去了，不禁有点感慨。 这一年，说长不长，除了学期初和期末月，几乎每周都有考试。时间就在这一层]]></description>
+</item><item>
     <title>我为何又写起了博客？</title>
     <link>http://localhost:1313/posts/why-am-i-blogging-again/</link>
     <pubDate>Wed, 19 Jun 2024 14:41:57 &#43;0800</pubDate><author>
