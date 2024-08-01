@@ -2,7 +2,7 @@
     <channel>
         <title>Nebula Nox Blue</title>
         <link>http://localhost:1313/en/</link>
-        <description>This Cute World</description>
+        <description>Nebula Nox Blue</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language>
             <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
         </channel>
